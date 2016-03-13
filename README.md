@@ -5,7 +5,7 @@ Simple app with navigation drawer.
 
 https://github.com/mikepenz/MaterialDrawer
 
-# Images
+# Screenshots
 
 ![alt tag](https://github.com/TomicaFranc/MaterialDrawer/blob/master/screen1.png)
 
