@@ -1,7 +1,7 @@
 # MaterialDrawer
 Simple app with navigation drawer.
 
-# Using
+# Using library
 
 https://github.com/mikepenz/MaterialDrawer
 
